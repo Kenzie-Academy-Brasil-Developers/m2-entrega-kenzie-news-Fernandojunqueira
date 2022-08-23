@@ -1,0 +1,22 @@
+body,main,figure,img,figcaption,form,h1,label,input,div,h2,h3,span{
+
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    background: transparent;
+    box-sizing: border-box;
+}
+ ul,ol{
+    list-style: none;
+ }
+:root{
+    --azul: #5163D3;
+    --azulClaro: #D7E4FB;
+    --preto: #1B1C1E;
+    --cinza: #EEEEEE;
+
+}
+body{
+    background: #E0E0E0;
+}
