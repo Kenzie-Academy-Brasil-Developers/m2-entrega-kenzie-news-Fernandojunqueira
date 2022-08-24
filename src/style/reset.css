@@ -20,3 +20,14 @@ body,main,figure,img,figcaption,form,h1,label,input,div,h2,h3,span{
 body{
     background: #E0E0E0;
 }
+
+h1,h2{
+    font-family: 'Roboto Slab', serif;
+    color: var(--azul);
+}
+span,h4,p{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
